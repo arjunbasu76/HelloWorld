@@ -1,0 +1,7 @@
+Class C
+{
+int i;
+int j;
+}
+
+C c1;
